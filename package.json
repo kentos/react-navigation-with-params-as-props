@@ -1,0 +1,23 @@
+{
+  "name": "react-navigation-with-params-as-props",
+  "version": "0.0.1",
+  "description": "HOC for spreading params to props on screens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentos/react-navigation-with-params-as-props.git"
+  },
+  "author": "@kentos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kentos/react-navigation-with-params-as-props/issues"
+  },
+  "homepage": "https://github.com/kentos/react-navigation-with-params-as-props#readme",
+  "devDependencies": {
+    "react": "16.2.0",
+    "lodash": "latest"
+  }
+}
