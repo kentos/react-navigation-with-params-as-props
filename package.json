@@ -1,6 +1,6 @@
 {
   "name": "react-navigation-with-params-as-props",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HOC for spreading params to props on screens",
   "main": "index.js",
   "scripts": {
